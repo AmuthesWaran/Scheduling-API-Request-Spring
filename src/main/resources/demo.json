@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Richa",
+      "location": "Delhi"
+    },
+    {
+      "id": 3,
+      "name": "Suman",
+      "location": "Delhi"
+    },
+    {
+      "id": 4,
+      "name": "Aravind",
+      "location": "Chennai"
+    }
+  ]
+}
